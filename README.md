@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?weight=600&font=Fira+Code&lines=Hi+👋;I'm+Chamini+Palliyaguru;Software+developer;Problem+solver;Tech+Enthusist&size=28&weight=600&color=b000b5&center=true)](https://git.io/typing-svg) </h1>
 
-<h3 align="left">An undergraduate student of Bachelor of Information and Communication Technology (Hons) degree program at Uva Wellassa University of Sri Lanka.</h3>
+<h3 align="center">An undergraduate student of Bachelor of Information and Communication Technology (Hons) degree program at Uva Wellassa University of Sri Lanka.</h3>
 <br>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
@@ -16,8 +16,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" /> </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  /><br>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+</p>
 
 <br>
 
