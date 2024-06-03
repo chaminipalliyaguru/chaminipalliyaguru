@@ -3,7 +3,7 @@
 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?weight=600&font=Fira+Code&lines=Hi+👋;I'm+Chamini+Palliyaguru;Software+developer;Problem+solver;Tech+Enthusist&size=28&weight=600&color=b000b5&center=true)](https://git.io/typing-svg) </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?weight=600&font=Fira+Code&lines=Hi+👋;I'm+Chamini+Palliyaguru;Software+engineer;Problem+solver;Tech+Enthusist&size=28&weight=600&color=b000b5&center=true)](https://git.io/typing-svg) </h1>
 
 <h3 align="center">An undergraduate student of Bachelor of Information and Communication Technology (Hons) degree program at Uva Wellassa University of Sri Lanka.</h3>
 <br>
