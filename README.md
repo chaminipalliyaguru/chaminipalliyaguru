@@ -13,7 +13,7 @@
 * 🧠 I'm learning MERN | AI | Java
 * 📝 I regularly write articles on Medium [[https://medium.com/@chaminipalliyaguru]](https://medium.com/@chaminipalliyaguru)
 * ✉️ You can contact me at [bimalkachamini@gmail.com](mailto:bimalkachamini@gmail.com)
-* ✉️ Explore my other profiles here: <br>
+* 🌱 Explore my other profiles here: <br>
    - LinkedIn - [[https://www.linkedin.com/in/chamini-palliyaguru-023525269/]](https://www.linkedin.com/in/chamini-palliyaguru-023525269/) <br>
    - HackerRank - [[https://www.hackerrank.com/bimalkachamini]](https://www.hackerrank.com/bimalkachamini)
 
