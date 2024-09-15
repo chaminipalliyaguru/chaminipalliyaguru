@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?weight=600&font=Fira+Code&lines=Hi+👋;Welcome+to+my+profile;I'm+Chamini+Palliyaguru&size=28&weight=600&color=b000b5&center=true)](https://git.io/typing-svg) </h1>
 
 <br>
+<h3 align="left">About Myself:</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 * 💻 I am an Information and Communication Technology undergraduate at **Uva Wellassa university.**
@@ -28,8 +29,6 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
   <img width="12" />
 </p>
-
-<br>
 
 <br><br>
 <h3 align="left">About my projects</h3>
